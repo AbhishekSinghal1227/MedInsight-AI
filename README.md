@@ -1,8 +1,8 @@
-🫀 MedInsight AI – AI-Powered Personal Heart Health Insight Tool 
+#🫀 MedInsight AI – AI-Powered Personal Heart Health Insight Tool 
 
  
 
-📌 Project Overview 
+#📌 Project Overview 
 
 MedInsight AI is an AI-powered, educational health analytics application that helps users understand their heart-related health metrics by comparing them against age-based recommended clinical ranges and generating plain-English insights. 
 
@@ -15,7 +15,7 @@ This application provides educational insights only and does not provide medical
 
  
 
-🎯 Problem Statement 
+#🎯 Problem Statement 
 
 Many individuals have access to health measurements such as blood pressure, cholesterol, and heart rate, but lack context to understand: 
 
@@ -31,7 +31,7 @@ This project addresses that gap by building an AI-powered analytics tool that tr
 
  
 
-🧠 What This Project Does (Analytics-First) 
+#🧠 What This Project Does (Analytics-First) 
 
 This project is not focused on diagnosis or disease prediction. 
 
@@ -51,7 +51,7 @@ Responsible AI usage for explanation and summarization
 
  
 
-🧩 Key Features 
+#🧩 Key Features 
 
 👤 Personal Health Input Form (Age-restricted: 20+) 
 
@@ -70,6 +70,7 @@ Responsible AI usage for explanation and summarization
 🔐 Secure API key handling (no hardcoding) 
 
 📊 Health Metrics Used & Why They Matter 
+
 
 Feature 
 
@@ -139,7 +140,7 @@ Indicates myocardial strain
 
  
 
-🧠 How AI Is Used (Responsible & Ethical) 
+#🧠 How AI Is Used (Responsible & Ethical) 
 
 AI is used only for interpretation and explanation, not prediction. 
 
@@ -153,7 +154,10 @@ Generates educational insights
 
 Provides a non-diagnostic recommendation on whether consulting a doctor may be advisable 
 
-📌 The AI is explicitly instructed to: 
+
+
+
+#📌 The AI is explicitly instructed to: 
 
 Avoid medical diagnosis 
 
@@ -163,7 +167,7 @@ Use simple, non-technical language
 
  
 
-🛠️ Tech Stack 
+#🛠️ Tech Stack 
 
 Python 
 
