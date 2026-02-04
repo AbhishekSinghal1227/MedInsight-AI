@@ -11,7 +11,8 @@ This project demonstrates how a Data Analyst can combine domain knowledge, analy
 ⚠️ Disclaimer: 
 This application provides educational insights only and does not provide medical advice, diagnosis, or treatment recommendations. 
 
- #"C:\Users\abhis\Downloads\Heart_projectpic1.png"
+ <img width="1919" height="902" alt="Heart_projectpic1" src="https://github.com/user-attachments/assets/8a6d5e33-4674-4828-9cb4-35f68928d494" />
+
 
 
  
