@@ -14,6 +14,7 @@ This application provides educational insights only and does not provide medical
  <img width="1919" height="902" alt="Heart_projectpic1" src="https://github.com/user-attachments/assets/8a6d5e33-4674-4828-9cb4-35f68928d494" />
 
 
+<img width="1918" height="898" alt="Heart_projectpic2" src="https://github.com/user-attachments/assets/1c9c613b-184b-46d5-8169-ed3797dc72a5" />
 
  
 
@@ -31,7 +32,10 @@ At the same time, healthcare data is often presented in technical formats that a
 
 This project addresses that gap by building an AI-powered analytics tool that transforms structured health inputs into age-aware, interpretable insights suitable for everyday users and non-technical stakeholders. 
 
- 
+ <img width="680" height="849" alt="Heart_projectpic3" src="https://github.com/user-attachments/assets/92db2fa1-60aa-439b-bf97-146a2deb0d2a" />
+
+<img width="477" height="713" alt="Heart_projectpic4" src="https://github.com/user-attachments/assets/2e1a9ca8-ae51-4ba3-bff3-3995ade5667f" />
+
 
 #🧠 What This Project Does (Analytics-First) 
 
@@ -48,10 +52,17 @@ Clear communication of potential risk signals
 Responsible AI usage for explanation and summarization 
 
  
+<img width="659" height="856" alt="Heart_projectpic5" src="https://github.com/user-attachments/assets/6defdb25-e7e6-4fe4-910c-828d1931a269" />
 
  
+<img width="858" height="533" alt="Heart_projectpic6" src="https://github.com/user-attachments/assets/d1c7c18d-a4f8-4823-8988-fd5246a14519" />
 
- 
+
+<img width="715" height="443" alt="Heart+projectpic7" src="https://github.com/user-attachments/assets/e1aec26a-de50-40dc-9466-2766463ce4c1" />
+
+
+ <img width="852" height="851" alt="Heart_projectpic8" src="https://github.com/user-attachments/assets/618c57e3-9207-4542-80e3-70061f2b94df" />
+
 
 #🧩 Key Features 
 
