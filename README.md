@@ -14,9 +14,8 @@ This application provides educational insights only and does not provide medical
  <img width="1919" height="902" alt="Heart_projectpic1" src="https://github.com/user-attachments/assets/8a6d5e33-4674-4828-9cb4-35f68928d494" />
 
 
-<img width="1918" height="898" alt="Heart_projectpic2" src="https://github.com/user-attachments/assets/1c9c613b-184b-46d5-8169-ed3797dc72a5" />
 
- 
+ <img width="477" height="713" alt="Heart_projectpic4" src="https://github.com/user-attachments/assets/2e1a9ca8-ae51-4ba3-bff3-3995ade5667f" />
 
 #🎯 Problem Statement 
 
