@@ -11,11 +11,11 @@ This project demonstrates how a Data Analyst can combine domain knowledge, analy
 ⚠️ Disclaimer: 
 This application provides educational insights only and does not provide medical advice, diagnosis, or treatment recommendations. 
 
+
 ## 🎥 Project Demo
 
-[![MedInsight AI Demo](demo.png)](https://github.com/AbhishekSinghal1227/MedInsight-AI/blob/main/MedInsight_AI%20FINAL.mp4)
-
-_Click the image to watch the demo video_
+▶️ Watch Demo Video  
+https://raw.githubusercontent.com/AbhishekSinghal1227/MedInsight-AI/main/MedInsight_AI_Demo.mp4
 
 
  <img width="1919" height="902" alt="Heart_projectpic1" src="https://github.com/user-attachments/assets/8a6d5e33-4674-4828-9cb4-35f68928d494" />
